@@ -15,6 +15,5 @@ Skills: REACT / JS / HTML / CSS / NODE.JS / EXPRESS / .NET downloading...
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxt0d0nt)](https://github.com/anuraghazra/github-readme-stats)
 
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=maxt0d0nt)  
 
