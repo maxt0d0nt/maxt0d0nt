@@ -1,10 +1,11 @@
 ### Hi 👋, my name is Max
 #### I am Full Stack developer
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-Habilidades: REACT / JS / HTML / CSS / NODE.JS / EXPRESS / .NET downloading...
+Telecommunications Technician, with knowledge as a Full Stacke developer. since I know this whole world of programming, I never stop learning something new every day and that is wonderful and motivating, I just want more and more
 
-- 🔭 working on this page. 
+Skills: REACT / JS / HTML / CSS / NODE.JS / EXPRESS / .NET downloading...
+
+- 🔭 working on smt... ever! 
 - 🌱 learning .NET 
 
 
