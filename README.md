@@ -5,6 +5,9 @@ Telecommunications Technician, with knowledge as a Full Stacke developer. since 
 
 Skills: REACT / JS / HTML / CSS / NODE.JS / EXPRESS / .NET / UX Design downloading...
 
+[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,mysql,react,figma,git,nodejs,tailwind,bootstrap,jest,webpack)](https://skills.thijs.gg)
+
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/maxt0d0nt) 
 - 🔭 working on smt... ever! 
 - 🌱 learning UX Design !
